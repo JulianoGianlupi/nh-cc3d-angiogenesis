@@ -1,6 +1,6 @@
 #!/bin/sh
 
-/usr/bin/invoke_app "$@" -C @tool/bin/AngiogenCC3D.sh -t AngiogenCC3D \
+/usr/bin/invoke_app "$@" -C @tool/bin/AngiogenCC3D.sh -t angiogencc3d \
                          -u compucell3d-4.1.1 \
                          -w captive \
                          -r none
