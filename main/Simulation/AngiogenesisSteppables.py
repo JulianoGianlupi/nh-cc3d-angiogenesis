@@ -19,8 +19,7 @@ class AngiogenesisStetppable(SteppableBasePy):
         :return:
         """
 
-        for cell in self.cell_list:
-            print("cell.id=", cell.id)
+        pass
 
     def finish(self):
         """
